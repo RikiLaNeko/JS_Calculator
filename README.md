@@ -43,9 +43,3 @@ To use the calculator, follow these steps:
   <button onclick="clearDisplay()">Clear</button>
 </body>
 </html>
-
-Contributions
-Contributions to this calculator JavaScript code are welcome. If you find any issues or have suggestions for improvement, please feel free to open an issue or submit a pull request.
-
-License
-This calculator JavaScript code is licensed under the MIT License.
